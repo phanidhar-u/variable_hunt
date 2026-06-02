@@ -1,8 +1,8 @@
-# Variable Hunt 🔍
+# Variable Hunt
 
 A research methodology assistant specializing in quantitative social science that helps researchers identify the most important **independent variables, covariates, and control variables** for a given dependent variable, based on published empirical literature.
 
-## ✨ Features
+## Features
 
 - **Evidence-Based Variable Selection**: Every suggested variable backed by published studies (no invented variables)
 - **Three-Category Classification**:
@@ -19,16 +19,16 @@ A research methodology assistant specializing in quantitative social science tha
 - **Citation Management**: Support for APA, Chicago, Harvard, and BibTeX formats
 - **Export Options**: CSV, citation files, and selection summaries
 
-## 🎯 Core Rules
+## Core Rules
 
-1. ✅ **Evidence-Based**: Every variable backed by published empirical research
-2. 📋 **Clear Classification**: Each variable in exactly one category
-3. 📚 **Complete Documentation**: Mechanism, citations, data source for each variable
-4. ⚠️ **Endogeneity Flagging**: Identifies variables causing identification problems
-5. 📊 **Evidence-Ordered**: Variables ranked by literature strength within category
-6. 🎓 **Discipline-Aware**: Tailored to econometrics, sociology, or public health
+1.  **Evidence-Based**: Every variable backed by published empirical research
+2.  **Clear Classification**: Each variable in exactly one category
+3.  **Complete Documentation**: Mechanism, citations, data source for each variable
+4.  **Endogeneity Flagging**: Identifies variables causing identification problems
+5.  **Evidence-Ordered**: Variables ranked by literature strength within category
+6.  **Discipline-Aware**: Tailored to econometrics, sociology, or public health
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Installation
 
@@ -61,7 +61,7 @@ The app opens at `http://localhost:8501`
 5. **Build custom variables** if needed
 6. **Export selection** as CSV or citations
 
-## 🔧 API Configuration
+## API Configuration
 
 ### CrossRef API
 - **No API key required** - completely free
@@ -77,7 +77,7 @@ The app opens at `http://localhost:8501`
 - Reliable and well-maintained
 - Perfect for discovering published research
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 variable_hunt/
@@ -94,7 +94,7 @@ variable_hunt/
 └── LICENSE                # MIT License
 ```
 
-## 💡 Example Usage
+## Example Usage
 
 ### Econometrics: Wage Inequality
 ```
@@ -134,7 +134,7 @@ CONTROL VARIABLES:
 - Family History (genetic predisposition)
 ```
 
-## 🎓 Supported Disciplines
+## Supported Disciplines
 
 ### Econometrics
 - Emphasis: Identification strategy, causal inference, endogeneity
@@ -151,7 +151,7 @@ CONTROL VARIABLES:
 - Key journals: American Journal of Public Health, Epidemiology, Lancet
 - Variable focus: Risk factors, determinants, prevention strategies
 
-## 📖 Citation Formats
+## Citation Formats
 
 Export your selected variables and citations in multiple formats:
 
@@ -168,7 +168,7 @@ Export your selected variables and citations in multiple formats:
 - [Public Health Resources](https://www.cdc.gov/DataStatistics/)
 - [Causal Inference Handbook](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 
-## 📊 Pre-populated Examples
+## Pre-populated Examples
 
 The database includes curated examples:
 - **Econometrics**: Wage inequality variables with 9+ citations
@@ -177,7 +177,7 @@ The database includes curated examples:
 
 All examples from major peer-reviewed journals and leading research institutions.
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 **CrossRef search returns no results?**
 - Try simpler keywords
@@ -200,7 +200,7 @@ All examples from major peer-reviewed journals and leading research institutions
 - Ensure virtual environment is activated (see `(venv)` at start of command line)
 - Run: `pip install -r requirements.txt` again
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions!
 
@@ -209,7 +209,7 @@ We welcome contributions!
 - **New disciplines**: Add examples for other social science fields
 - **Bug reports**: Open issues for any problems
 
-## 📝 Citation
+## Citation
 
 If you use Variable Hunt in your research:
 
