@@ -160,7 +160,7 @@ Export your selected variables and citations in multiple formats:
 - **Harvard**: `Author Year Title. Journal, Volume(Issue), pp.`
 - **BibTeX**: `@article{key, author={}, year={}, ...}`
 
-## 🔗 Useful Resources
+## Useful Resources
 
 - [CrossRef API Docs](https://github.com/CrossRef/rest-api-doc)
 - [Econometrics Best Practices](https://www.aeaweb.org/)
@@ -222,11 +222,11 @@ If you use Variable Hunt in your research:
 }
 ```
 
-## 📄 License
+## License
 
 MIT License - See LICENSE file for full text
 
-## 🙋 Support
+## Support
 
 - **Issues**: [GitHub Issues](https://github.com/phanidhar-u/variable_hunt/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/phanidhar-u/variable_hunt/discussions)
